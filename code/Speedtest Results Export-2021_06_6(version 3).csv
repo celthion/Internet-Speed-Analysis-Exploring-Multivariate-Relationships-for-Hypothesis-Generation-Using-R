@@ -1,0 +1,91 @@
+﻿IP_ADDRESS,TEST_DATE,TIME_ZONE,DOWNLOAD_MEGABITS,UPLOAD_MEGABITS,LATENCY_MS,SERVER_NAME,nombre,DISTANCE_MILES,CONNECTION_MODE,SERVER_COUNT,Conexion,Clima,Dispositivo,Dispositivos_conectados,Dia,Localizacion,etapa_dia,operador,velocidad_descarga_contratada_MEGABITS,velocidad_subida_contratada_MEGABITS,pais,PIB_percapita_pais_dolares
+181.58.38.92,6/4/2021 11:05,GMT,6.04,6.3,305,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Cielo parcialmente cubierto,escritorio ,9,Martes,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/4/2021 11:05,GMT,5.41,6.76,303,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Cielo parcialmente cubierto,portatil,9,Martes,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/4/2021 11:06,GMT,6.55,7.74,274,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Cielo parcialmente cubierto,escritorio ,9,Martes,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/4/2021 11:07,GMT,6.14,7.91,266,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Cielo parcialmente cubierto,portatil,9,Martes,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/4/2021 11:07,GMT,61.22,8.48,10,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Cielo parcialmente cubierto,escritorio ,9,Martes,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/4/2021 11:08,GMT,60.96,8.25,14,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Cielo parcialmente cubierto,portatil,9,Martes,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/4/2021 16:00,GMT,5.34,6.17,300,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Nublado,escritorio ,10,Martes,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/4/2021 16:01,GMT,5.46,6.19,303,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Nublado,portatil,10,Martes,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/4/2021 16:02,GMT,6.74,7.84,266,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Nublado,escritorio ,10,Martes,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/4/2021 16:02,GMT,6.71,7.05,280,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Nublado,portatil,10,Martes,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/4/2021 16:03,GMT,63.91,8.38,10,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Nublado,escritorio ,10,Martes,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/4/2021 16:04,GMT,62.21,8.46,11,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Nublado,portatil,10,Martes,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/4/2021 21:00,GMT,5.45,6.08,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Nublado,escritorio ,6,Martes,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/4/2021 21:01,GMT,5.95,6.72,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Nublado,portatil,6,Martes,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/4/2021 21:02,GMT,6.77,7.06,269,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Nublado,escritorio ,6,Martes,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/4/2021 21:02,GMT,6.84,7.72,283,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Nublado,portatil,6,Martes,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/4/2021 21:06,GMT,60.24,8.32,12,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Nublado,escritorio ,6,Martes,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/4/2021 21:06,GMT,62.22,8.93,14,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Nublado,portatil,6,Martes,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/5/2021 11:02,GMT,6.33,6.19,302,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Soleado,escritorio ,9,Miercoles,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/5/2021 11:04,GMT,6.01,6.82,302,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Soleado,portatil,9,Miercoles,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/5/2021 11:04,GMT,6.99,7.1,278,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Soleado,escritorio ,9,Miercoles,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/5/2021 11:05,GMT,6.81,7.38,281,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Soleado,portatil,9,Miercoles,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/5/2021 11:06,GMT,58.7,8.65,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Soleado,escritorio ,9,Miercoles,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/5/2021 11:06,GMT,59.17,8.18,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Soleado,portatil,9,Miercoles,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/5/2021 16:05,GMT,5.37,6.38,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Tormentas dispersas,escritorio ,10,Miercoles,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/5/2021 16:06,GMT,6.35,6.4,303,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Tormentas dispersas,portatil,10,Miercoles,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/5/2021 16:06,GMT,6.53,7.24,273,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Tormentas dispersas,escritorio ,10,Miercoles,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/5/2021 16:07,GMT,6.99,7.63,276,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Tormentas dispersas,portatil,10,Miercoles,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/5/2021 16:07,GMT,62.54,8.5,10,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Tormentas dispersas,escritorio ,10,Miercoles,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/5/2021 16:08,GMT,57.3,8.43,11,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Tormentas dispersas,portatil,10,Miercoles,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/5/2021 21:05,GMT,5.35,6.68,301,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Cielo parcialmente cubierto,escritorio ,10,Miercoles,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/5/2021 21:05,GMT,5.18,6.05,300,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Cielo parcialmente cubierto,portatil,10,Miercoles,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/5/2021 21:05,GMT,6.74,7.78,265,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Cielo parcialmente cubierto,escritorio ,10,Miercoles,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/5/2021 21:06,GMT,6.14,7.6,268,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Cielo parcialmente cubierto,portatil,10,Miercoles,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/5/2021 21:06,GMT,61.68,8.64,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Cielo parcialmente cubierto,escritorio ,10,Miercoles,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/5/2021 21:07,GMT,61.45,8.15,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Cielo parcialmente cubierto,portatil,10,Miercoles,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/6/2021 11:00,GMT,5.02,6.7,300,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Tormentas electricas dispersas,escritorio ,7,Jueves,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/6/2021 11:02,GMT,5.43,6.97,301,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Tormentas electricas dispersas,portatil,7,Jueves,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/6/2021 11:04,GMT,6.05,7.5,280,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Tormentas electricas dispersas,escritorio ,7,Jueves,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/6/2021 11:04,GMT,6.58,7.11,273,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Tormentas electricas dispersas,portatil,7,Jueves,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/6/2021 11:05,GMT,57.65,8.45,12,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Tormentas electricas dispersas,escritorio ,7,Jueves,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/6/2021 11:06,GMT,58.04,8.02,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Tormentas electricas dispersas,portatil,7,Jueves,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/6/2021 16:04,GMT,5.26,6.16,303,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Tormentas electricas dispersas,escritorio ,8,Jueves,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/6/2021 16:04,GMT,5.74,6.01,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Tormentas electricas dispersas,portatil,8,Jueves,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/6/2021 16:04,GMT,6.6,7.14,272,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Tormentas electricas dispersas,escritorio ,8,Jueves,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/6/2021 16:05,GMT,6.16,7.82,280,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Tormentas electricas dispersas,portatil,8,Jueves,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/6/2021 16:06,GMT,61.45,8.77,14,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Tormentas electricas dispersas,escritorio ,8,Jueves,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/6/2021 16:06,GMT,58.54,8.33,10,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Tormentas electricas dispersas,portatil,8,Jueves,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/6/2021 21:01,GMT,6.99,6.95,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Nublado,escritorio ,6,Jueves,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/6/2021 21:03,GMT,6.58,6.57,303,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Nublado,portatil,6,Jueves,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/6/2021 21:06,GMT,6.83,7.07,266,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Nublado,escritorio ,6,Jueves,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/6/2021 21:06,GMT,6.97,7.37,282,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Nublado,portatil,6,Jueves,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/6/2021 21:07,GMT,57.17,8.04,14,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Nublado,escritorio ,6,Jueves,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/6/2021 21:08,GMT,62.55,8.23,11,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Nublado,portatil,6,Jueves,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/7/2021 11:00,GMT,5.52,6.56,300,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Soleado,escritorio ,4,Viernes,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/7/2021 11:04,GMT,5.86,6.28,301,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Soleado,portatil,4,Viernes,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/7/2021 11:05,GMT,6.06,7.38,279,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Soleado,escritorio ,4,Viernes,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/7/2021 11:06,GMT,6.41,7.64,271,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Soleado,portatil,4,Viernes,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/7/2021 11:06,GMT,57.46,8.02,12,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Soleado,escritorio ,4,Viernes,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/7/2021 11:07,GMT,64.46,8.53,10,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Soleado,portatil,4,Viernes,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/7/2021 16:02,GMT,5.57,6.35,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Soleado,escritorio ,6,Viernes,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/7/2021 16:04,GMT,6.16,6.83,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Soleado,portatil,6,Viernes,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/7/2021 16:05,GMT,6.05,7.13,279,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Soleado,escritorio ,6,Viernes,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/7/2021 16:06,GMT,6.68,7.02,280,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Soleado,portatil,6,Viernes,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/7/2021 16:06,GMT,58.59,8.24,12,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Soleado,escritorio ,6,Viernes,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/7/2021 16:08,GMT,58.56,8.9,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Soleado,portatil,6,Viernes,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/7/2021 21:03,GMT,5.14,6.35,305,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Tormentas dispersas,escritorio ,10,Viernes,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/7/2021 21:04,GMT,6.18,6.86,300,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Tormentas dispersas,portatil,10,Viernes,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/7/2021 21:04,GMT,6.25,7.51,280,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Tormentas dispersas,escritorio ,10,Viernes,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/7/2021 21:05,GMT,6.76,7.53,274,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Tormentas dispersas,portatil,10,Viernes,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/7/2021 21:06,GMT,56.26,8.24,11,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Tormentas dispersas,escritorio ,10,Viernes,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/7/2021 21:06,GMT,60.87,8.01,12,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Tormentas dispersas,portatil,10,Viernes,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/8/2021 11:02,GMT,5.06,6.08,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Tormentas electricas dispersas,escritorio ,7,Sabado,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/8/2021 11:03,GMT,6.58,6.24,304,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Tormentas electricas dispersas,portatil,7,Sabado,"6.240133, -75.585679",mañana,claro,60,10,China,10500.4
+181.58.38.92,6/8/2021 11:05,GMT,6.12,7.48,276,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Tormentas electricas dispersas,escritorio ,7,Sabado,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/8/2021 11:06,GMT,6.65,7.38,283,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Tormentas electricas dispersas,portatil,7,Sabado,"6.240133, -75.585679",mañana,claro,60,10,Taiwan,28306
+181.58.38.92,6/8/2021 11:06,GMT,57.54,8.61,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Tormentas electricas dispersas,escritorio ,7,Sabado,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/8/2021 11:09,GMT,60.9,8.46,13,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Tormentas electricas dispersas,portatil,7,Sabado,"6.240133, -75.585679",mañana,claro,60,10,Colombia,5332.8
+181.58.38.92,6/8/2021 16:05,GMT,5.51,6.75,300,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Nublado,escritorio ,5,Sabado,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/8/2021 16:06,GMT,5.34,6.27,301,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Nublado,portatil,5,Sabado,"6.240133, -75.585679",tarde,claro,60,10,China,10500.4
+181.58.38.92,6/8/2021 16:06,GMT,6.97,7.4,279,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Nublado,escritorio ,5,Sabado,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/8/2021 16:07,GMT,6.64,7.23,280,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Nublado,portatil,5,Sabado,"6.240133, -75.585679",tarde,claro,60,10,Taiwan,28306
+181.58.38.92,6/8/2021 16:07,GMT,63.19,8.95,10,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Nublado,escritorio ,5,Sabado,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/8/2021 16:08,GMT,55.99,8.34,11,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Nublado,portatil,5,Sabado,"6.240133, -75.585679",tarde,claro,60,10,Colombia,5332.8
+181.58.38.92,6/8/2021 21:02,GMT,5.61,6.37,303,Beijing,Beijing Broadband Network,9150,multi,1,wifi 5GHz,Tormentas dispersas,escritorio ,10,Sabado,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/8/2021 21:05,GMT,5.7,6.68,300,Beijing,Beijing Broadband Network,9150,multi,1,wifi 2.4GHz,Tormentas dispersas,portatil,10,Sabado,"6.240133, -75.585679",noche,claro,60,10,China,10500.4
+181.58.38.92,6/8/2021 21:05,GMT,6.49,7.69,274,Taipei,Friday Media,10000,multi,1,wifi 5GHz,Tormentas dispersas,escritorio ,10,Sabado,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/8/2021 21:06,GMT,6.97,7.94,277,Taipei,Friday Media,10000,multi,1,wifi 2.4GHz,Tormentas dispersas,portatil,10,Sabado,"6.240133, -75.585679",noche,claro,60,10,Taiwan,28306
+181.58.38.92,6/8/2021 21:06,GMT,61.28,8.07,11,MedellÃ­n,Claro Colombia,0,multi,4,wifi 5GHz,Tormentas dispersas,escritorio ,10,Sabado,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
+181.58.38.92,6/8/2021 21:07,GMT,59.56,8.23,15,MedellÃ­n,Claro Colombia,0,multi,4,wifi 2.4GHz,Tormentas dispersas,portatil,10,Sabado,"6.240133, -75.585679",noche,claro,60,10,Colombia,5332.8
